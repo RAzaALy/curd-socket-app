@@ -9,7 +9,7 @@ A simple records system using MongoDB, Express.js, React.js, and Node.js with re
 ![Language: American English](https://img.shields.io/badge/language-american%20english-red.svg)
 
 
-Demo: [https://mern-crud.herokuapp.com/](https://mern-crud.herokuapp.com/)
+Demo: [https://crud-a-socket-pp.herokuapp.com/](https://crud-a-socket-pp.herokuapp.com/)
 
 ![MERN CRUD Screenshot](screenshot.png)
 
